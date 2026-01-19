@@ -1,9 +1,6 @@
 # 🐱 Няшный динозаврик
 
-![Game Screenshot](screenshot.png)
-
-**Играйте онлайн:** [https://vetun-nnnn.github.io/nyashny-dinosaur](https://vetun-nnnn.github.io/nyashny-dinosaur)
-
+![Game Screenshot](2026-01-19_16-30-46.png)
 
 ## 🚀 Быстрый старт
 
